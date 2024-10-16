@@ -9,4 +9,4 @@
 - __Main script file name:__ main.py
 - __Project type:__ open source
 
-[[GO BACK TO THE README](README.md)]
+**[[GO BACK TO THE README](README.md)]**
