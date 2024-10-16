@@ -6,7 +6,7 @@
 - __Available EXE file:__ YES
 - __Author:__ html-css-js-python
 - __Maximum number of files to convert:__ 1
-- __Main script file name:__ main.py
+- __Main script file name:__ [main.py](source/main.py)
 - __Project type:__ open source
 
 **[[GO BACK TO THE README](README.md)]**
