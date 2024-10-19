@@ -11,3 +11,4 @@
 
 **[[GO BACK TO THE README](README.md)]**
 **[[MAIN.PY](source/main.py)]**
+**[[How do I run this program manually without using the EXE file?](htinstall.md)]**
