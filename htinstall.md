@@ -12,4 +12,4 @@ pip install pyinstaller
 **6.** Close cmd and run the file `main.py` by double-clicking.  
 > Program installed!
 ---
-[[BACK](FORPROG.md)]
+__[[BACK](FORPROG.md)]__
