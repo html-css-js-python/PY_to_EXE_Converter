@@ -1,4 +1,5 @@
-<p align="center"><font color="red">This is an old version of the software, it is recommended to use a newer one, click <a href="https://github.com/html-css-js-python/PY_to_EXE_Converter_2/">here</a>.</font></p>
+> [!WARNING]
+> This is an old version of the software, it is recommended to use a newer one, click [here](https://github.com/html-css-js-python/PY_to_EXE_Converter_2/).
 
 # README
 **For the converter to work on your computer, it must meet these requirements:**
